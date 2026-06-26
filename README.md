@@ -51,6 +51,7 @@
 ### 💼 **AI 助理与工作自动化**
 
 - [inbox-zero](https://github.com/elie222/inbox-zero) — 全球最佳 AI 邮件助理，自动清理与回复邮件（邮件智能分类、AI助理）
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [get_jobs](https://github.com/loks666/get_jobs) — AI 找工作助手，支持多平台自动投递简历（自动投递简历、职位筛选）
 
 ### 📈 **金融与数据分析**
